@@ -1,2 +1,1 @@
-# Mi-segundo-Repositorio
-Mi segundo repositorio PrepCoure Soy Henry
+Este en un proyecto de como crear un repositorio y clonarlo desde github a mi computadora
